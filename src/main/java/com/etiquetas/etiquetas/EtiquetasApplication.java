@@ -10,5 +10,4 @@ public class EtiquetasApplication {
 
         SpringApplication.run(EtiquetasApplication.class, args);
 	}
-
 }
